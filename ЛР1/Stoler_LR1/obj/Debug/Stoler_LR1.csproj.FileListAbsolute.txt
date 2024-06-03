@@ -1,0 +1,10 @@
+D:\6 семестр\Системное программирование\Stoler_LR1\bin\Debug\Stoler_LR1.exe.config
+D:\6 семестр\Системное программирование\Stoler_LR1\bin\Debug\Stoler_LR1.exe
+D:\6 семестр\Системное программирование\Stoler_LR1\bin\Debug\Stoler_LR1.pdb
+D:\6 семестр\Системное программирование\Stoler_LR1\obj\Debug\Stoler_LR1.csproj.AssemblyReference.cache
+D:\6 семестр\Системное программирование\Stoler_LR1\obj\Debug\Stoler_LR1.Form1.resources
+D:\6 семестр\Системное программирование\Stoler_LR1\obj\Debug\Stoler_LR1.Properties.Resources.resources
+D:\6 семестр\Системное программирование\Stoler_LR1\obj\Debug\Stoler_LR1.csproj.GenerateResource.cache
+D:\6 семестр\Системное программирование\Stoler_LR1\obj\Debug\Stoler_LR1.csproj.CoreCompileInputs.cache
+D:\6 семестр\Системное программирование\Stoler_LR1\obj\Debug\Stoler_LR1.exe
+D:\6 семестр\Системное программирование\Stoler_LR1\obj\Debug\Stoler_LR1.pdb
